@@ -31,8 +31,8 @@ mongoose.connect('mongodb://0.0.0.0:27017/Blogs');
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'itsme31121999',
-    pass: 'wvyu anxe rdrc dmhi',
+    user: 'rajatspam69@gmail.com',
+    pass: '@spamRAJAT69',
   },
 });
 
